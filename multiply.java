@@ -1,5 +1,5 @@
 package x;
-public class mul
+public class multiply
 {
 	public void  Mult(int j, int k)
 	{
