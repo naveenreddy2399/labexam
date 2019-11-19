@@ -15,13 +15,13 @@ public class main
 		System.out.println("Pick up the choices 1.add 2.sub 3.mul 4.div 5.mod");
 		int choice = sc.nextInt();
 		if(choice==1)
-		{a.Addition(j,k);}
+		{a.Addition(x,y);}
 		else if(choice==2)
-		{s.subtraction(j,k);}
+		{s.subtraction(x,y);}
 		else if(choice==3)
-		{m.Mult(j,k);}
+		{m.Mult(x,y);}
 		else if(choice==4)
-		{d.Divi(j,k);}
+		{d.Divi(x,y);}
 	}
 }
 
