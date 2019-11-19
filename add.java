@@ -1,11 +1,12 @@
 package x;
-public class Add
+public class add
 {
    
-   public int Addition(int j, int k)
+   public void Addition(int j, int k)
    {
       int z=0;
       z = j + k;
-      System.out.println(z);
+      System.out.println("Addition : "+z);
    }
 }
+
