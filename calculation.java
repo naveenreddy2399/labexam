@@ -12,16 +12,17 @@ public class main
 		x.div d = new x.div();
 		x.sub s = new x.sub();
 		x.mul m = new x.mul();
+		x.modulo mo = new x.modulo();
 		System.out.println("Pick up the choices 1.add 2.sub 3.mul 4.div 5.mod");
 		int choice = sc.nextInt();
 		if(choice==1)
-		{a.Addition(x,y);}
+		{a.Addition(j,k);}
 		else if(choice==2)
-		{s.subtraction(x,y);}
+		{s.subtraction(j,k);}
 		else if(choice==3)
-		{m.Mult(x,y);}
+		{m.Mult(j,k);}
 		else if(choice==4)
-		{d.Divi(x,y);}
-		else{System.out.println("Please enter valid entry");}
+		{d.Divi(j,k);}
 	}
 }
+
