@@ -1,10 +1,12 @@
 package x;
-public class div 
+public class div
 {
-	public void Div(int j,int k)
-	{
-		 int c =j/k;
-		 System.out.println(c);
-
-	}
+   
+   public void Divi(int j, int k)
+   {
+      int z=0;
+      z = j / k;
+      System.out.println("Division : "+z);
+   }
 }
+
