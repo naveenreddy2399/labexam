@@ -1,6 +1,6 @@
 import  x.*;
 import java.util.*;
-public class main 
+public class calculation
 {
 	public static void main(String args[])
 	{
