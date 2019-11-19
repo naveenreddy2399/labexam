@@ -11,7 +11,7 @@ public class main
 		x.add a = new x.add();
 		x.div d = new x.div();
 		x.sub s = new x.sub();
-		x.mul m = new x.mul();
+		x.multiply m = new x.multiply();
 		System.out.println("Pick up the choices 1.add 2.sub 3.mul 4.div 5.mod");
 		int choice = sc.nextInt();
 		if(choice==1)
