@@ -1,12 +1,11 @@
 package x;
-
 public class sub
 {
-   public int Sub(int j,int k)
+   
+   public void subtraction(int x, int y)
    {
-      int l=0;
-      l = j - k;
-      System.out.println("subtracted value "+l);
-  
+      int z=0;
+      z = x - y;
+      System.out.println("subtraction : "+z);
    }
 }
