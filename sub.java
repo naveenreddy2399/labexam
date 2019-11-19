@@ -6,6 +6,7 @@ public class sub
    {
       int z=0;
       z = x - y;
-      return z;
+      System.out.println("subtracted value "+l);
+  
    }
 }
